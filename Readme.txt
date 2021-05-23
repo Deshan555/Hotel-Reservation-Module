@@ -1,0 +1,1 @@
+unzip the Text_Files.7z files to same path your java class files store
